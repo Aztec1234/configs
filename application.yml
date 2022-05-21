@@ -1,0 +1,5 @@
+####### Common properties for all microservices.
+
+#Database related
+test:
+  properties: defaultProperty
